@@ -31,4 +31,7 @@ B) CSS
 C) JavaScript
 1. First i have to declare the variables like sections and the unordered list
 2. I make a function to loop on the sections and create links named **addNavSections**
-3. I make a function to be active listner to the click event named **scrollToAnchor** and using a method called **addEventListener  **
+3. I make a function to be active listner to the click event named **scrollToAnchor** and using a method called **addEventListener** 
+4. I created a help function to be a part of the active element observation called **elemIsActive** I set maximum and minimum values and make a for loop use in it the **getBoundingClientRect** method.
+5. I created the main function to set the active section in the viewport named **setActiveView** using methods like **addEventListener** that function loops through the section to make it active when it's in the viewport and unactive the rest.
+6. finally i create a function to handle the back to top button.  
