@@ -22,6 +22,7 @@ A) HTML
 1. I have to modify the HTML file and add one more section 
 2. link the HTML file with the JavaScript file
 3. Create the back to top button
+4. I added my name in the footer
 
 B) CSS
 1. I modified some colors
